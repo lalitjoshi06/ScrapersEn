@@ -5,9 +5,9 @@
   ],
   "domains": [
     "ettvcentral.com",
-    "ettv.unblockit.ltd"
+    "ettv.unblockit.club"
   ],
-  "base_url": "https://ettv.unblockit.buzz",
+  "base_url": "https://ettv.unblockit.club",
   "search_url_format_episode": {
     "string_format": "/torrents-search.php?search=%s+S%02dE%02d",
     "replacement": [
