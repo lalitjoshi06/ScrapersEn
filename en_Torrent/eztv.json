@@ -7,9 +7,9 @@
     "eztv.re",
     "eztv.it",
     "eztv.ch",
-    "eztv.unblockit.ltd"
+    "eztv.unblockedfor.me"
   ],
-  "base_url": "https://eztv.unblockit.buzz",
+  "base_url": "https://eztv.unblockedfor.me",
   "search_url_format_episode": {
     "string_format": "/search/%s-s%02de%02d",
     "replacement": [
