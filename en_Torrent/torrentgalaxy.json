@@ -8,7 +8,7 @@
     "torrentgalaxy.pw",
     "torrentgalaxy.unblockit.buzz"
   ],
-  "base_url": "https://torrentgalaxy.to",
+  "base_url": "https://torrentgalaxy.unblockit.club",
   "search_url_format_episode": {
     "string_format": "/torrents.php?search=%s+s%02de%02d&sort=size&order=desc",
     "replacement": [
