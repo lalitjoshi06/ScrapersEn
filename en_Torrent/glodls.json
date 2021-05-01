@@ -5,9 +5,9 @@
   ],
   "domains": [
     "glodls.to",
-    "glotorrents.unblockit.club"
+    "glotorrents.unblockit.onl"
   ],
-  "base_url": "https://glotorrents.unblockit.club",
+  "base_url": "https://glotorrents.unblockit.onl",
   "search_url_format_episode": {
     "string_format": "/search_results.php?search=%s-s%02de%02d&cat=41&incldead=0&inclexternal=0&lang=1&sort=seeders&order=desc",
     "replacement": [
