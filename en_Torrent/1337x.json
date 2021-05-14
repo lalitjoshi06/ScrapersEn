@@ -6,9 +6,9 @@
   "domains": [
     "1337x.to",
     "1337x.gd",
-    "1337x.unblockit.club"
+    "1337x.unblockit.onl"
   ],
-  "base_url": "https://1337x.unblockit.club",
+  "base_url": "https://1337x.unblockit.onl",
   "search_url_format_episode": {
     "string_format": "/sort-search/%s+S%02dE%02d/seeders/desc/1/",
     "replacement": [
