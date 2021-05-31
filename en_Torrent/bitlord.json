@@ -6,7 +6,7 @@
   "domains": [
     "bitlordsearch.com"
   ],
-  "base_url": "http://www.bitlordsearch.com",
+  "base_url": "https://www.bitlordsearch.com",
   "search_url_format_episode": {
     "string_format": "/search?q=%s+s%02de%02d",
     "replacement": [
