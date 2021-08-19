@@ -6,9 +6,9 @@
   "domains": [
     "torrentgalaxy.to",
     "torrentgalaxy.pw",
-    "torrentgalaxy.unblockit.buzz"
+    "torrentgalaxy.unblockit.ch"
   ],
-  "base_url": "https://torrentgalaxy.unblockit.onl",
+  "base_url": "https://torrentgalaxy.unblockit.ch",
   "search_url_format_episode": {
     "string_format": "/torrents.php?search=%s+s%02de%02d&sort=size&order=desc",
     "replacement": [
