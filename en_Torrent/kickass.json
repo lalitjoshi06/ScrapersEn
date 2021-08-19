@@ -12,7 +12,7 @@
     "kat.sx",
     "thekat.info"
   ],
-  "base_url": "https://kickass.onl",
+  "base_url": "https://kkickass.com",
   "search_url_format_episode": {
     "string_format": "/usearch/%s+S%02dE%02d/",
     "replacement": [
