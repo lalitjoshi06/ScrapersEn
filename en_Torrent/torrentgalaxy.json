@@ -8,7 +8,7 @@
     "torrentgalaxy.pw",
     "torrentgalaxy.unblockit.ch"
   ],
-  "base_url": "https://torrentgalaxy.unblockit.ch",
+  "base_url": "https://sitenable.ch/o.php?b=21&f=norefer&pv=0&mobile=&u=https://torrentgalaxy.mx",
   "search_url_format_episode": {
     "string_format": "/torrents.php?search=%s+s%02de%02d&sort=size&order=desc",
     "replacement": [

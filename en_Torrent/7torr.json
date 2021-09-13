@@ -1,13 +1,14 @@
 {
-  "name": "7Torr",
+  "name": "7torr",
   "language": [
+    "hi",
     "en"
   ],
   "domains": [
     "7torr.com",
-    "seventorrents.unblockit.ch"
+    "btscene.nl"
   ],
-  "base_url": "https://seventorrents.unblockit.ch",
+  "base_url": "https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?http://btscene.nl",
   "search_url_format_episode": {
     "string_format": "/search?q=%s+s%02de%02d",
     "replacement": [

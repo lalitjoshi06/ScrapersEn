@@ -7,7 +7,7 @@
     "glodls.to",
     "glotorrents.unblockit.ch"
   ],
-  "base_url": "https://glotorrents.unblockit.ch",
+  "base_url": "https://glodls.to",
   "search_url_format_episode": {
     "string_format": "/search_results.php?search=%s-s%02de%02d&cat=41&incldead=0&inclexternal=0&lang=1&sort=seeders&order=desc",
     "replacement": [
