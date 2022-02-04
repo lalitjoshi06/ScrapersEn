@@ -8,7 +8,7 @@
     "magnetdl.unblockit.onl",
     "magnetdl.unblockedfor.me"
   ],
-  "base_url": "https://magnetdl.unblockedfor.me",
+  "base_url": "https://www.magnetdl.com",
   "search_url_format_episode": {
     "string_format": "/%.1s/%s-s%02de%02d",
     "replacement": [

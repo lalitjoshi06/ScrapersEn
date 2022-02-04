@@ -7,7 +7,7 @@
     "extratorrent.unblockit.ch",
     "extratorrents.it"
   ],
-  "base_url": "https://extratorrent.unblockit.ch",
+  "base_url": "https://extratorrent.st",
   "search_url_format_episode": {
     "string_format": "/search/?search=%s+s%02de%02d&new=1&x=0&y=0",
     "replacement": [

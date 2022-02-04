@@ -13,13 +13,10 @@
   "2": [
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/isohunt.json",
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/kickass.json",
-    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/limetorrents.json",
-    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/magnet4you.json",
+    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/limetorrents.json",  
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/magnetdl.json",
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/piratebay.json",
-    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/rarbg.json",
-    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/skytorrents.json",
-    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/solidtorrents.json",
+    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/rarbg.json",    
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/topnow.json"
   ],
   "3": [
@@ -29,8 +26,7 @@
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/torrentdownload.json"
   ],
   "4": [
-    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/torrentgalaxy.json",
-    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/tvsplurge.json",
+    "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/torrentgalaxy.json",    
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/zooqle.json",
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/ytsws.json",
     "https://raw.githubusercontent.com/lalitjoshi06/ScrapersEn/main/en_Torrent/yourbittorrent.json",
